@@ -1,0 +1,6 @@
+# You should have the settings below in your .sectets.toml file rather than here
+
+# INPUT_PDF_FOLDER = "/home/person/pdf_folder"
+# INPUT_PDF_FILE = "Some_annotated_paper.pdf"
+# INPUT_IMAGE_FOLDER = "/home/person/fixed_images"
+# OUTPUT_FOLDER = "/home/person/fixed_images"
